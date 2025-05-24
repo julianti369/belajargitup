@@ -1,0 +1,4 @@
+tugas penting
+-membuat halaman index.html
+-membuat halaman from.html
+-membuat halaman about.html
